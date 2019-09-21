@@ -1,0 +1,1 @@
+print ("cuka blyat bish")
